@@ -1,0 +1,2 @@
+# PadraoStrategy
+Padrão Strategy
